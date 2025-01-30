@@ -18,7 +18,6 @@ It includes four applications:
 
 ## 📂 Project Structure
 ```
-```
 /mfe
   ├── /packages
   │   ├── /container  (Host app - React)
@@ -28,7 +27,6 @@ It includes four applications:
   ├── /.github        (Workflows for CI/CD)
   ├── README.md
 ```
----
 ---
 
 ## 🛠 Tech Stack
