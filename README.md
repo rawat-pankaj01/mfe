@@ -3,7 +3,7 @@
 This repository demonstrates a **MicroFrontEnds (MFE)** architecture using **React** and **Vue.js**, built with the **Module Federation Plugin** of Webpack.
 
 It includes four applications:
-- **Container (Host)** – The shell application
+- **Container** – The shell application
 - **Dashboard** – A Vue.js-based MFE
 - **Auth** – A React-based MFE
 - **Marketing** – A React-based MFE
