@@ -41,15 +41,10 @@ It includes four applications:
 ### 1️⃣ Clone the Repo
 ```sh
 git clone https://github.com/rawat-pankaj01/mfe.git
-cd mfe-project
+cd mfe
 ```
 
-### 2️⃣ Install Dependencies
-```sh
-npm install
-```
-
-### 3️⃣ Run Individual Apps
+### 2️⃣ Run Individual Apps
 ```sh
 cd container && npm start
 cd dashboard && npm start
