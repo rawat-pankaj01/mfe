@@ -40,7 +40,7 @@ It includes four applications:
 
 ### 1️⃣ Clone the Repo
 ```sh
-git clone https://github.com/your-repo-name.git
+git clone https://github.com/rawat-pankaj01/mfe.git
 cd mfe-project
 ```
 
