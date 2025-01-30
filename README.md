@@ -29,8 +29,8 @@ It includes four applications:
 
 ## 🛠 Tech Stack
 - **Webpack Module Federation** for MicroFrontEnds
-- **React 17** for Container, Dashboard, and Marketing
-- **Vue 3** for Auth
+- **React 17** for Container, Dashboard, and Auth
+- **Vue 3** for Marketing
 - **AWS CloudFront** for hosting
 - **GitHub Actions** for CI/CD
 
