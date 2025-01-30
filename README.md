@@ -18,13 +18,17 @@ It includes four applications:
 
 ## 📂 Project Structure
 ```
-/mfe-project
-  ├── /container  (Host app - React)
-  ├── /dashboard  (React MFE)
-  ├── /auth       (React MFE)
-  ├── /marketing  (Vue.js MFE)
+```
+/mfe
+  ├── /packages
+  │   ├── /container  (Host app - React)
+  │   ├── /dashboard  (React MFE)
+  │   ├── /auth       (React MFE)
+  │   ├── /marketing  (Vue.js MFE)
+  ├── /.github        (Workflows for CI/CD)
   ├── README.md
 ```
+---
 ---
 
 ## 🛠 Tech Stack
